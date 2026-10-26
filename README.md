@@ -216,5 +216,4 @@ This project demonstrates practical development of a Python desktop application 
 
 **John Genes Robert Tragua**
 
-Computer Engineering Student  
-Software Development Portfolio Project
+Computer Engineer  
